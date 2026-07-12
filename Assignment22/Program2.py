@@ -2,9 +2,6 @@
 ##  Author      : Rucha Hanumant Pawar
 ##  Assignment  : 22
 ##  Question    : 2
-##  Description : It is used to calculate the factorial of multiple numbers 
-##                simultaneously using Pool.map() and display the Process ID, 
-##                input number, and factorial.
 ##  Date        : 12/07/2026
 ##################################################################################
 
