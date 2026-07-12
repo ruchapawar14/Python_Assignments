@@ -2,8 +2,6 @@
 ##  Author      : Rucha Hanumant Pawar
 ##  Assignment  : 22
 ##  Question    : 4
-##  Description : It is used to calculate the sum of the series 1^5 + 2^5 + 3^5 + ... + N^5 
-##                for multiple values of N simultaneously using Pool.map() and multiprocessing.
 ##  Date        : 12/07/2026
 ############################################################################################
 
