@@ -2,8 +2,6 @@
 ##  Author      : Rucha Hanumant Pawar
 ##  Assignment  : 22
 ##  Question    : 1
-##  Description : It is used to calculate the sum of squares from 1 to N for each 
-##                number in a list using Pool.map() and multiprocessing.
 ##  Date        : 12/07/2026
 #########################################################################################
 
