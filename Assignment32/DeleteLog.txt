@@ -1,0 +1,4 @@
+./Empty2.txt
+./Empty1.txt
+./Source/CopyLog.txt
+./Destination/CopyLog.txt

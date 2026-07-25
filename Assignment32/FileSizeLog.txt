@@ -1,0 +1,8 @@
+File path : /Users/rucha14/Desktop/Python/Assignments/Assignment32/Demo.txt
+File size in bytes : 0bytes
+Date and time : Thu Jul 23 19:31:14 2026
+------------------------------------------------------------
+File path : /Users/rucha14/Desktop/Python/Assignments/Assignment32/Demo.txt
+File size in bytes : 15bytes
+Date and time : Thu Jul 23 19:31:44 2026
+------------------------------------------------------------
