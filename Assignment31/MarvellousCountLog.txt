@@ -1,0 +1,12 @@
+Directory Path : /Users/rucha14/Desktop/Python/Assignments/Assignment31
+Number of files : 10
+Date and Time : 22-07-2026 08:13:52 PM
+----------------------------------------
+Directory Path : /Users/rucha14/Desktop/Python/Assignments/Assignment31
+Number of files : 10
+Date and Time : 22-07-2026 08:18:52 PM
+----------------------------------------
+Directory Path : /Users/rucha14/Desktop/Python/Assignments/Assignment31
+Number of files : 10
+Date and Time : 22-07-2026 08:23:53 PM
+
